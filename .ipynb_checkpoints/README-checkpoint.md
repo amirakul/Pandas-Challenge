@@ -14,10 +14,6 @@ The final report included each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
- 
-This is how distric summary looks like: 
-
-![image1](Images/DistrictSummary.png)
 
 ### School Summary
 
