@@ -92,15 +92,19 @@ The following table shows school spending:
 
 ![image7](Images/ScoresBySchool.png)
 
-### Scores by School Size
+### 8. Scores by School Size
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
-The following table shows school spending:
+The following table shows school by size:
 
-![image7](Images/ScoresBySchool.png)
+![image8](Images/ScoresBySize.png)
 
 
-### Scores by School Type
+### 9. Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+The following table shows scores by school type:
+
+![image9](Images/ScoresByType.png)
+
 
 
