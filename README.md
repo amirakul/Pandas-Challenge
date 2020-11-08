@@ -51,15 +51,20 @@ This is how school summary looks like:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-The list of t: 
+The list of top 5 schools are summarized in this table: 
 
-![image2](Images/SchoolSummary.png)
+![image3](Images/Top5.png)
 
-### Bottom Performing Schools (By % Overall Passing)
+### 4. Bottom Performing Schools (By % Overall Passing)
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
-### Math Scores by Grade\*\*
+The list of worst 5 performing schools are summarized in this table: 
+
+![image4](Images/Worst5.png)
+
+### Math Scores by Grade
+The following table 
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
