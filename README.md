@@ -3,7 +3,7 @@ I analyzed the district-wide standardized test results. I was given access to ev
 
 The final report included each of the following:
 
-### District Summary
+### 1. District Summary
 
 * Create a high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
@@ -19,7 +19,7 @@ This is how distric summary looks like:
 
 ![image1](Images/DistrictSummary.png)
 
-### School Summary
+### 2.School Summary
 
 * Create an overview table that summarizes key metrics about each school, including:
   * School Name
@@ -33,7 +33,11 @@ This is how distric summary looks like:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-### Top Performing Schools (By % Overall Passing)
+This is how school summary looks like: 
+
+![image2](Images/SchoolSummary.png)
+
+### 3.Top Performing Schools (By % Overall Passing)
 
 * Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
   * School Name
@@ -46,6 +50,10 @@ This is how distric summary looks like:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+
+The list of t: 
+
+![image2](Images/SchoolSummary.png)
 
 ### Bottom Performing Schools (By % Overall Passing)
 
