@@ -71,16 +71,15 @@ The following table shows averages of Math scores by grade:
 ![image5](Images/MathScores.png)
 
 
-
-
 ### 6. Reading Scores by Grade
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 The following table shows averages of Reading scores by grade:
 
-![image4](Images/Worst5.png)
+![image6](Images/ReadingScores.png)
 
-### Scores by School Spending
+
+### 7. Scores by School Spending
 
 * Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
@@ -89,9 +88,16 @@ The following table shows averages of Reading scores by grade:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-### Scores by School Size
+The following table shows school spending:
 
+![image7](Images/ScoresBySchool.png)
+
+### Scores by School Size
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+The following table shows school spending:
+
+![image7](Images/ScoresBySchool.png)
+
 
 ### Scores by School Type
 
