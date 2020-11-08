@@ -63,14 +63,22 @@ The list of worst 5 performing schools are summarized in this table:
 
 ![image4](Images/Worst5.png)
 
-### Math Scores by Grade
-The following table 
-
+### 5. Math Scores by Grade
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-### Reading Scores by Grade
+The following table shows averages of Math scores by grade:
 
+![image5](Images/MathScores.png)
+
+
+
+
+### 6. Reading Scores by Grade
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+The following table shows averages of Reading scores by grade:
+
+![image4](Images/Worst5.png)
 
 ### Scores by School Spending
 
