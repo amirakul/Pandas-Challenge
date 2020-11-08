@@ -106,5 +106,7 @@ The following table shows scores by school type:
 
 ![image9](Images/ScoresByType.png)
 
+## Analysis
 
+There are 15 schools, of which 7 are district and 8 are charter schools. According to the school summary table, charter schools receive less school budget compared to district schools, yet their overall passing percentages are higher than district schools. For example, the top 5 schools are all charter schools and bottom 5 schools are district schools.
 
