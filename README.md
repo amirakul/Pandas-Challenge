@@ -108,5 +108,5 @@ The following table shows scores by school type:
 
 ## Analysis
 
-There are 15 schools, of which 7 are district and 8 are charter schools. According to the school summary table, charter schools receive less school budget compared to district schools, yet their overall passing percentages are higher than district schools. For example, the top 5 schools are all charter schools and bottom 5 schools are district schools.
+There are 15 schools, of which 7 are district and 8 are charter schools. According to the school summary table, charter schools receive less school budget compared to district schools, yet their overall passing percentages are higher than district schools. For example, the top 5 schools are all charter schools and bottom 5 schools are district schools. If we look at school size, all the district schools are in "large school" category with 2000-5000 students, that has overall passing percentage of 58.28%. Small and medium-sized schools are all charter schools with maximum number of students being 2000 and overall percentages are about 89.88& and 90.62%.
 
